@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "descricao": "arroz",
+    "preco": 12.0,
+    "estoque": 10,
+    "idCategoria": 1
+  }
+]

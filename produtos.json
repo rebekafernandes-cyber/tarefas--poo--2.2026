@@ -1,0 +1,16 @@
+[
+  {
+    "id": 3,
+    "descricao": "feoj\u00e3o",
+    "preco": 20.402,
+    "estoque": 6,
+    "idCategoria": 1
+  },
+  {
+    "id": 1,
+    "descricao": "arroz",
+    "preco": 10.404,
+    "estoque": 9,
+    "idCategoria": 1
+  }
+]

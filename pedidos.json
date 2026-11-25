@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 3,
+    "cliente_nome": "lid",
+    "data": "25/11/2026 00:16",
+    "itens": [
+      {
+        "produto_id": 1,
+        "descricao": "arroz",
+        "preco": 10.404,
+        "quantidade": 1,
+        "subtotal": 10.404
+      }
+    ],
+    "total": 10.404
+  }
+]
